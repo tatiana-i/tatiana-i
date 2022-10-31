@@ -1,4 +1,6 @@
-##  Hi there 👋, my name is Tatiana :woman_technologist:
+## Hi there 👋, my name is Tatiana :woman_technologist: 
+
+
 <div id="header" align="center">
   <img src="https://www.stengg.com/media/617349/data-analytics-header-image.jpg?anchor=center&amp;mode=crop&amp;width=1600&amp;height=200&amp;rnd=131890221430000000"/>  
 </div>
@@ -28,5 +30,5 @@
   <a href="https://powerbi.microsoft.com/en-us"><img src="https://excelclub.com.br/wp-content/uploads/2022/08/MicrosoftTeams-image-19.png" title="PowerBI" alt="PowerBI" width="50" height="50"/></a>
   <a href="https://matplotlib.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" title="Matplotlib"  alt="Matplotlib" width="50" height="50"/></a>
   <a href="https://html.spec.whatwg.org/multipage"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/></a>
-  <a href="https://www.adobe.com/uk/products/photoshop"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/></a>
+  <a href="https://www.adobe.com/uk/products/photoshop"><img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" title="Photoshop" alt="Photoshop" width="50" height="50"/></a> 
  </div>
