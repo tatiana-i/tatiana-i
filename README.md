@@ -11,7 +11,7 @@
 - :zap: Trainee Data Scientist at TechTalent Academy
 - :zap: Looking for an entry position as a Data Analyst
 - :zap: Skills:  Excel / SQL / Python / NumPy / Pandas / MongoDB / Tableau / PowerBI 
-- :zap: How to reach me: <a href="https://www.linkedin.com/in/tatianaiacob"> <img src="https://www.designinmentalhealth.com/wp-content/uploads/sites/57/2022/05/Linkedin-logo-png-300x78.png" width="100"/> </a>
+- :zap: How to reach me: <a href="https://www.linkedin.com/in/tatianaiacob"> <img src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" width="70"/> </a>
 
 ---
 
