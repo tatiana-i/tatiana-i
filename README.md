@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Tatiana :woman_technologist: 
+## Hey! 👋 I am Tatiana :woman_technologist: 
 
 
 <div id="header" align="center">
