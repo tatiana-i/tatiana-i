@@ -8,7 +8,7 @@
 ##  About Me :
 - :zap: Trainee Data Scientist at TechTalent Academy
 - :zap: Looking for an entry position as a Data Analyst
-- :zap: Skills:  SQL / Python / NumPy / Pandas / MongoDB / Tableau / PowerBI 
+- :zap: Skills:  Excel / SQL / Python / NumPy / Pandas / MongoDB / Tableau / PowerBI 
 - :zap: How to reach me: <a href="https://www.linkedin.com/in/tatiana-iacob-978740131/"> <img src="https://www.designinmentalhealth.com/wp-content/uploads/sites/57/2022/05/Linkedin-logo-png-300x78.png" width="100"/> </a>
 
 ---
@@ -25,5 +25,6 @@
    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="60" height="60"/>&nbsp;
   <img src="https://excelclub.com.br/wp-content/uploads/2022/08/MicrosoftTeams-image-19.png" title="PowerBI" alt="PowerBI" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" title="Matplotlib"  alt="Matplotlib" width="60" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://www.orthodyne.be/wp-content/uploads/2017/03/Excel.png" title="Excel" alt="Excel" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
  </div>
